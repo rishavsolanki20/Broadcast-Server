@@ -1,6 +1,6 @@
 //client.go
 
-package main
+package client
 
 import (
 	"bufio"
