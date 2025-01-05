@@ -1,4 +1,4 @@
-module broadcast-server
+module Broadcast-Server
 
 go 1.23.1
 
